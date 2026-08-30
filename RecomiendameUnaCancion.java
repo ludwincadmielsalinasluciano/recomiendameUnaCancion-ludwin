@@ -15,5 +15,12 @@ public class RecomiendameUnaCancion {
         System.out.println("Canción: Maureen");
         System.out.println("Artista: Jack Sherman");
         System.out.println("¿Por qué?: Me gustan los arreglos que hicieron con los instrumentos acusticos sin depender tanto de sintetizadores o instrumentos eléctricos .");
+
+        // Recomendación agregada por Ameyalli Vázquez
+        System.out.println();
+        System.out.println("Ameyalli recomienda:");
+        System.out.println("Canción: Dos Mil Trece");
+        System.out.println("Artista: Zoé");
+        System.out.println("¿Por qué?: Me gustan las metaforas tecnologicas que reflexionan sobre nuestra existencia y la espiritualidad. ");
     }
 }
